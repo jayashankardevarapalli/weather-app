@@ -10,7 +10,6 @@ const Weather = () => {
     if (event.key === "Enter") {
       axios.get(url).then((response) => {
         setData(response.data);
-        console.log(response.data);
       });
       setLocation("");
     }
