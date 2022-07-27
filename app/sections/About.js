@@ -15,7 +15,7 @@ const About = () => {
     <>
       <div id="about">
         <div className="container mx-auto font-mono">
-          <h1 className="text-black-200 heroheader mt-10 ml-6 text-3xl">
+          <h1 className="text-black-200 heroheader mt-10 ml-6 text-3xl mt-24">
             About Me&nbsp;:
           </h1>
           <div className="flex mt-2 mb-4 ml-12 justify-start">
