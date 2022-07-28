@@ -26,7 +26,7 @@ const Weather = () => {
         <div className="text-center my-5">
           <input
             type="text"
-            value={location}
+            value={location.replace(/^\s+|\s+$/gm, "")}
             onChange={(event) => setLocation(event.target.value)}
             onKeyPress={searchLocation}
             placeholder="Enter the city name and press enter or send"
