@@ -87,7 +87,7 @@ const About = () => {
                   </div>
                 </div>
               </div>
-              <div className="sm:w-2/3 sm:pl-8 sm:py-6 mt-2 pt-12 align-center sm:mt-0 text-center sm:text-left">
+              <div className="sm:w-2/3 sm:pl-8 sm:py-3 mt-2 pt-12 align-center sm:mt-0 text-center sm:text-left">
                 <p className="leading-relaxed text-lg mb-3 mt-24">
                   I am D.Jaya Shankar Kumar, I am currently pursuing my MCA Post
                   Graduartion degree from Gayatri Vidya Parishad College of
